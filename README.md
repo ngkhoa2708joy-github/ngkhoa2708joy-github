@@ -15,8 +15,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Katcoding)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngkhoa2708.joy@gmail.com)
 
----
-
 ## 🛠️ Tech Stack:
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,7 +41,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngkhoa2708joy-github&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
+## 📊 GitHub Projects:
+<p align="center">
+  <a href="https://github.com/ngkhoa2708joy-github/small-emotion-ML">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=small-emotion-ML&theme=radical" />
+  </a>
+</p>
+
+
 
 ## 🧠 Quote of the day:
 
@@ -51,7 +56,7 @@
 
 ---
 
-## 🐍 Contribution Snake:
+## 🐍 Enjoy my meat:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngkhoa2708joy-github/ngkhoa2708joy-github/output/github-snake-dark.svg" />
