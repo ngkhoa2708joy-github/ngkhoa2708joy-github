@@ -36,15 +36,18 @@
 
 ## 📊 GitHub Stats:
 
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ngkhoa2708joy-github&show_icons=true&theme=radical" alt="Khoa's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngkhoa2708joy-github&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ## 📊 GitHub Projects:
+
 <p align="center">
   <a href="https://github.com/ngkhoa2708joy-github/small-emotion-ML">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=small-emotion-ML&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=small-emotion-ML&theme=radical&cache_seconds=1" />
   </a>
 </p>
 
