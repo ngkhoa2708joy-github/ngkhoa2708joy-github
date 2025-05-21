@@ -45,29 +45,35 @@
 
 ## 📊 GitHub Projects
 
-<p align="center">
-  <a href="https://github.com/ngkhoa2708joy-github/small-emotion-ML" style="text-decoration:none; color:inherit;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=small-emotion-ML&theme=radical&cache_seconds=1" alt="Repo card" />
-    <br />
-    ⭐ Star &nbsp;&nbsp; 🍴 Fork
-  </a>
-</p>
+<table align="center" style="border-spacing: 10px 8px;">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ngkhoa2708joy-github/small-emotion-ML" style="text-decoration:none; color:inherit;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=small-emotion-ML&theme=radical&cache_seconds=1" alt="Repo card" />
+        <br />
+        ⭐ Star &nbsp;&nbsp; 🍴 Fork
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ngkhoa2708joy-github/MachineLearning-ChurnCustomer" style="text-decoration:none; color:inherit;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=MachineLearning-ChurnCustomer&theme=radical&cache_seconds=1" alt="Repo card" />
+        <br />
+        ⭐ Star &nbsp;&nbsp; 🍴 Fork
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ngkhoa2708joy-github/finger-count-MCQs-CV" style="text-decoration:none; color:inherit;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=finger-count-MCQs-CV&theme=radical&cache_seconds=1" alt="Repo card" />
+        <br />
+        ⭐ Star &nbsp;&nbsp; 🍴 Fork
+      </a>
+    </td>
+    <td></td> <!-- Ô trống để giữ cấu trúc 2 cột -->
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/ngkhoa2708joy-github/MachineLearning-ChurnCustomer" style="text-decoration:none; color:inherit;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=MachineLearning-ChurnCustomer&theme=radical&cache_seconds=1" alt="Repo card" />
-    <br />
-    ⭐ Star &nbsp;&nbsp; 🍴 Fork
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ngkhoa2708joy-github/finger-count-MCQs-CV" style="text-decoration:none; color:inherit;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=finger-count-MCQs-CV&theme=radical&cache_seconds=1" alt="Repo card" />
-    <br />
-    ⭐ Star &nbsp;&nbsp; 🍴 Fork
-  </a>
-</p>
 
 
 
