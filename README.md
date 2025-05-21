@@ -43,13 +43,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngkhoa2708joy-github&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-## 📊 GitHub Projects:
+## 📊 GitHub Projects
 
 <p align="center">
   <a href="https://github.com/ngkhoa2708joy-github/small-emotion-ML">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=small-emotion-ML&theme=radical&cache_seconds=1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=small-emotion-ML&theme=radical&cache_seconds=1" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/ngkhoa2708joy-github/small-emotion-ML/stargazers">
+    <img src="https://img.shields.io/github/stars/ngkhoa2708joy-github/small-emotion-ML?style=social" alt="Star badge" />
+  </a>
+  <a href="https://github.com/ngkhoa2708joy-github/small-emotion-ML/network/members">
+    <img src="https://img.shields.io/github/forks/ngkhoa2708joy-github/small-emotion-ML?style=social" alt="Fork badge" />
+  </a>
+</p>
+
+
+
 
 
 
