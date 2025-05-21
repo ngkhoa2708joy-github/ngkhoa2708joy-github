@@ -53,6 +53,21 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ngkhoa2708joy-github/MachineLearning-ChurnCustomer" style="text-decoration:none; color:inherit;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=MachineLearning-ChurnCustomer&theme=radical&cache_seconds=1" alt="Repo card" />
+    <br />
+    ⭐ Star &nbsp;&nbsp; 🍴 Fork
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ngkhoa2708joy-github/finger-count-MCQs-CV" style="text-decoration:none; color:inherit;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=finger-count-MCQs-CV&theme=radical&cache_seconds=1" alt="Repo card" />
+    <br />
+    ⭐ Star &nbsp;&nbsp; 🍴 Fork
+  </a>
+</p>
 
 
 
