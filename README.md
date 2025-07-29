@@ -70,7 +70,18 @@
         ⭐ Star &nbsp;&nbsp; 🍴 Fork
       </a>
     </td>
-    <td></td> <!-- Ô trống để giữ cấu trúc 2 cột -->
+    <td align="center">
+      <a href="https://github.com/ngkhoa2708joy-github/workflow_projects_github.git" style="text-decoration:none; color:inherit;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=workflow_projects_github&theme=radical&cache_seconds=1" alt="Repo card" />
+        <br />
+        ⭐ Star &nbsp;&nbsp; 🍴 Fork
+      </a>
+    </td>
+    
+  </tr>
+  <tr>
+    
+    
   </tr>
 </table>
 
