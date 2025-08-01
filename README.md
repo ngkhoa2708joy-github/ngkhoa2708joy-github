@@ -62,6 +62,7 @@
       </a>
     </td>
   </tr>
+  
   <tr>
     <td align="center">
       <a href="https://github.com/ngkhoa2708joy-github/finger-count-MCQs-CV" style="text-decoration:none; color:inherit;">
@@ -77,13 +78,19 @@
         ⭐ Star &nbsp;&nbsp; 🍴 Fork
       </a>
     </td>
-    
   </tr>
   <tr>
-    
+    <td align="center">
+      <a href="https://github.com/ngkhoa2708joy-github/excel-application-timekeeping-payroll.git" style="text-decoration:none; color:inherit;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=excel-application-timekeeping-payroll&theme=radical&cache_seconds=2" alt="Repo card" />
+        <br />
+        ⭐ Star &nbsp;&nbsp; 🍴 Fork
+      </a>
+    </td>
     
   </tr>
 </table>
+
 
 
 
