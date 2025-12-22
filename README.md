@@ -88,8 +88,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/ngkhoa2708joy-github/Deep_learning.git" style="text-decoration:none; color:inherit;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=Deep_learning&theme=radical&cache_seconds=2" alt="Repo card" />
+      <a href="https://github.com/ngkhoa2708joy-github/Deep_learning.git](https://github.com/ngkhoa2708joy-github/CS-DL-projects.git" style="text-decoration:none; color:inherit;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngkhoa2708joy-github&repo=CS-DL-projects&theme=radical&cache_seconds=2" alt="Repo card" />
         <br />
         ⭐ Star &nbsp;&nbsp; 🍴 Fork
       </a>
